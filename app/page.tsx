@@ -148,6 +148,9 @@ export default function FisioterapeutaSamuel() {
                 <Link href="#contato" className="text-gray-700 hover:text-blue-600 transition-colors">
                   Contato
                 </Link>
+                <Link href="/login" className="text-blue-600 hover:text-blue-800 font-semibold">
+                Adm
+              </Link>
               </div>
             </nav>
           )}
